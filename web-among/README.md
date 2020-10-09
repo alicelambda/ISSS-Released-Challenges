@@ -1,4 +1,4 @@
-# Among Us Predictor
+# Among Us Predictor Write up
 Among Us CTF
 Web
 Hard 900
